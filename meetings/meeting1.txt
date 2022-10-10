@@ -3,3 +3,4 @@ DAte -- 2022.10.10
 -- we talked about how to fundraised 
 -- we dicussed posible gaming competitions
 -- we discussed how to get funding.
+-- added some stuff
